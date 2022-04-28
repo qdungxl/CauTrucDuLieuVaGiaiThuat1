@@ -10,3 +10,8 @@
 ### 3.2 Selectione sort (Chọn trực tiếp)
 ![image](https://user-images.githubusercontent.com/94212972/165686568-e252bafd-a44c-42ae-9cb1-e2d82e97a410.png)
 ![image](https://user-images.githubusercontent.com/94212972/165688008-bed07f2c-b141-4509-af4c-c3b3e7105a10.png)
+### 3.3 Insertion sort (Chèn trực tiếp)
+![image](https://user-images.githubusercontent.com/94212972/165688302-1087bc06-232c-4f73-9fbe-97666ccf2774.png)
+![image](https://user-images.githubusercontent.com/94212972/165689093-a2324de6-76d7-4066-90a5-98ba13e5ed27.png)
+![image](https://user-images.githubusercontent.com/94212972/165692051-97540a37-28bc-4923-bfbb-34b4f36b8114.png)
+### 3.4 Interchange Sort (Đổi chỗ trực tiếp)
